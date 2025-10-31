@@ -111,8 +111,8 @@ A powerful Discord music bot with LavaLink integration, featuring support for Yo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AeroX-Development/AeroX-Music.git
-   cd AeroX-Music
+   git clone https://github.com/AeroX-Development/AeroX-Music.git](https://github.com/reg-exe/A-Advanced-Music-Bot.git
+   cd music
    ```
 
 2. **Install dependencies**

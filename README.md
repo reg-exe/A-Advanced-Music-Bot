@@ -19,11 +19,11 @@ A powerful Discord music bot with LavaLink integration, featuring support for Yo
 
 **Please read carefully before using this project:**
 
-- ❌ **DO NOT** publicly distribute, showcase, or upload this project on YouTube, social media, or any other platforms without explicit permission from AeroX Development
-- ❌ **DO NOT** remove or modify the credits and attribution to AeroX Development and the developer
+- ❌ **DO NOT** publicly distribute, showcase, or upload this project on YouTube, social media, or any other platforms without explicit permission from A! Development
+- ❌ **DO NOT** remove or modify the credits and attribution to A! Development and the developer
 - ✅ You may use this bot for personal or private servers
 - ✅ You may modify the code for your own use while keeping credits intact
-- 📧 For permission to showcase or distribute publicly, contact us via our [Discord Server](https://discord.gg/8wfT8SfB5Z)
+- 📧 For permission to showcase or distribute publicly, contact us 
 
 **Removing credits or unauthorized public distribution is strictly prohibited and disrespectful to the developers who made this project possible.**
 
@@ -111,7 +111,7 @@ A powerful Discord music bot with LavaLink integration, featuring support for Yo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AeroX-Development/AeroX-Music.git](https://github.com/reg-exe/A-Advanced-Music-Bot.git
+   git clone https://github.com/reg-exe/A-Advanced-Music-Bot.git
    cd music
    ```
 
